@@ -1,0 +1,18 @@
+{
+    "unique_id_1": {
+        "user_id": "user_1",
+        "messages": [
+            {
+                "timestamp": "2024-08-28T16:12:20.913257",
+                "role": "user",
+                "message": "hi"
+            },
+            {
+                "timestamp": "2024-08-28T16:12:20.914135",
+                "role": "bot",
+                "message": "Hello! What type of product are you looking for today?"
+            }
+        ],
+        "feedback": null
+    }
+}

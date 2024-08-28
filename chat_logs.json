@@ -1,0 +1,48 @@
+{
+    "unique_id_1": {
+        "user_id": "user_1",
+        "messages": [
+            {
+                "timestamp": "2024-08-28T14:21:03.255310",
+                "role": "bot",
+                "message": "Welcome! What kind of product are you looking for today?"
+            },
+            {
+                "timestamp": "2024-08-28T14:21:09.979895",
+                "role": "user",
+                "message": "i am looking for a phone"
+            },
+            {
+                "timestamp": "2024-08-28T14:21:15.724257",
+                "role": "bot",
+                "message": "Sure, I'd be glad to help you with that. However, to find the best phone for you, could you please provide me with some additional information such as:\n\n1. Your budget range.\n2. Any specific brand you prefer.\n3. Specific features that you require - such as camera quality, battery life, screen size, etc.\n4. Are you looking for a new or a used phone?"
+            },
+            {
+                "timestamp": "2024-08-28T14:21:35.436647",
+                "role": "user",
+                "message": "brand iphone 15 pro"
+            },
+            {
+                "timestamp": "2024-08-28T14:21:39.685074",
+                "role": "bot",
+                "message": "I'm sorry for the confusion, but as of my latest knowledge update in November 2021, there's no iPhone 15 Pro available. The latest iPhone model is the iPhone 13 Pro. If you may have been referring to a different model or a phone from a different brand, please let me know so I can assist you better."
+            },
+            {
+                "timestamp": "2024-08-28T14:21:58.664092",
+                "role": "user",
+                "message": "no"
+            },
+            {
+                "timestamp": "2024-08-28T14:22:00.777020",
+                "role": "bot",
+                "message": "I'm here to help you! If you have another question or need assistance with something else, feel free to ask."
+            },
+            {
+                "timestamp": "2024-08-28T14:22:00.777548",
+                "role": "bot",
+                "message": "Thank you for using the Amazon Bot! Have a great day!"
+            }
+        ],
+        "feedback": null
+    }
+}
