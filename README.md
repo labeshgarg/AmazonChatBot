@@ -18,6 +18,18 @@ AmazonBot is an AI-powered chatbot designed to help users find the perfect produ
 4. **Recommendation:** The bot presents the top product(s) to the user, along with additional details such as price, ratings, and a direct link to purchase.
 5. **Learning:** Over time, the bot's responses improve as more conversations are processed, and the intent/response models are refined.
 
+### Example Chatbot Workflow
+
+Below is an example of the chatbot in action, showing how a conversation might unfold:
+
+![AmazonBot Workflow](screenshot.png)
+
+1. The user starts the conversation by greeting the bot.
+2. AmazonBot asks the user what type of product they are looking for.
+3. The user specifies the product category (e.g., phone).
+4. AmazonBot asks the user for their budget.
+5. The user provides their budget, and AmazonBot fetches the relevant product recommendations.
+
 ## Tech Stack
 
 - **Frontend:** [Next.js]
